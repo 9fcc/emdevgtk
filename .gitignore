@@ -1,0 +1,6 @@
+# Eclipse project file and directories
+.cproject
+.project
+.settings
+# Backup files made automatically by text editor
+*~
